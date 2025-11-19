@@ -20,7 +20,7 @@ Soy un **arquitecto de software** apasionado por crear soluciones escalables y e
 - 👯 Buscando colaborar en proyectos **open source** innovadores
 - 💡 Interesado en **clean architecture**, **domain-driven design**, y **best practices**
 - 💬 Pregúntame sobre **arquitectura de software**, **cloud computing**, **patrones de diseño**
-- 📜 Filosofía de código: **"No comments, let's the code speak!"** - El código limpio se explica solo
+- 📜 Filosofía de código: **"No comments, let the code speak!"** - El código limpio se explica solo
 - ⚡ Dato curioso: **¡Me encanta automatizar todo lo que puedo! 🤖**
 
 ---
@@ -134,7 +134,7 @@ achievements:
   code_quality: "Clean, maintainable, and well-tested"
   scalability: "Millions of requests per day? No problem! 📈"
   passion: "Turning coffee ☕ into code since... forever!"
-  philosophy: "No comments, let's the code speak! 🎯"
+  philosophy: "No comments, let the code speak! 🎯"
 
 motto: |
   Code with passion 💎
@@ -187,7 +187,7 @@ fun_fact: "I turn bugs 🐛 into features and features into scalable systems!"
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-**"No comments, let's the code speak!"** – Clean Code Philosophy 🎯
+**"No comments, let the code speak!"** – Clean Code Philosophy 🎯
 
 *⭐️ From [javier-valencia-arch](https://github.com/javier-valencia-arch) with ❤️*
 
