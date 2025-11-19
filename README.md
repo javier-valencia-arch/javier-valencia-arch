@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/javier-valencia-arch?style=social)](https://github.com/javier-valencia-arch)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-valencia-arch)
-[![Twitter Follow](https://img.shields.io/twitter/follow/javier_valencia?style=social)](https://twitter.com/javier_valencia)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nvelpc2?style=social)](https://twitter.com/nvelpc2)
 
 </div>
 
