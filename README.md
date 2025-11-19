@@ -176,9 +176,9 @@ fun_fact: "I turn bugs 🐛 into features and features into scalable systems!"
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👀 Visitors Count
+### 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/javier-valencia-arch/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=javier-valencia-arch&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
